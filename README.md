@@ -33,3 +33,5 @@ Do the following instructions:
 1. sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 2. sudo chmod +x /usr/local/bin/docker-compose
 3. To verify the installation: `docker-compose --version`
+
+## PPT Link : https://docs.google.com/presentation/d/1QORD1Xil7QAQWuoGyxZGPbB1k7Q9mteqWeTbkDxcDbM/edit?usp=sharing
